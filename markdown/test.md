@@ -70,3 +70,6 @@ const b=2;
 这是**粗体**
 
 ==高亮==
+
+上传图片后,typora和vscode 无法加载:
+<https://blog.csdn.net/qq_45172832/article/details/124698147>
