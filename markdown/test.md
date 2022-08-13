@@ -73,3 +73,7 @@ const b=2;
 
 上传图片后,typora和vscode 无法加载:
 <https://blog.csdn.net/qq_45172832/article/details/124698147>
+
+cdn加速:
+<https://cdn.jsdelivr.net/gh/SimpleLifecst/simple@main/>
+<https://cdn.jsdelivr.net/gh/username/仓库名@分支/>
